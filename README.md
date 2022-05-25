@@ -1,5 +1,5 @@
 ### Hello there 👋
 
-I'm Arseny from Saint Petersburg and I do frontend. My favorite technologies are: TypeScript, React, MobX, Tailwind CSS, Node.js and Express.
+I'm Arseny from Saint Petersburg and I do frontend. My favorite technologies are: TypeScript, React, MobX, Tailwind CSS, Node.js and Express. I also have some experience with Vue.js.
 
-I'm currently looking for a team. If you're interested, checkout my [resume](https://yap8.github.io/portfolio/Nebozhenko_Frontend_Resume.pdf) and [website](https://yap8.github.io/windows-portfolio/).
+Сheckout my [website](https://yap8.github.io/windows-portfolio/)!
